@@ -17,4 +17,6 @@ These are the ones I know to be working:
 [rp2]:http://www.eloraam.com/download-redpower/
 [rp2_sf]:http://ftbwiki.org/Support_Frame
 
+The scripts are provided as examples but can also be used as-is.
+
 enjoy.
